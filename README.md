@@ -2,13 +2,11 @@
 
 # Hi 👋, I'm Frenz
 
-### 💻 Information Technology Student · Developer · Builder
+### 💻 Information Technology Student · Developer · Problem Solver
 
 > Building things, learning constantly, and trying to make software that actually helps.
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=Profile%20Views\&color=blue\&style=for-the-badge)
 
 </div>
 
@@ -52,9 +50,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=Frenzy911&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" height="180">
+<img src="https://streak-stats.demolab.com?user=Frenzy911&theme=transparent&hide_border=true" height="180">
 
 </div>
 
