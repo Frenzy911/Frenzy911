@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Dash
+# Hi 👋, I'm Frenz
 
 ### 💻 Information Technology Student · Developer · Builder
 
