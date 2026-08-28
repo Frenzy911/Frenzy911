@@ -42,7 +42,7 @@
 * 🗄️ Working with **SQL and relational databases**
 * 🧠 Always learning something new
 * 🎨 I prefer **clean, simple, and lightweight interfaces**
-* 🚀 Currently building projects and preparing for the next stage of my career
+* 🚀 Currently building projects and preparing for the next stage of my career**
 *💻 being able to work safely in a shared codebase
 
 ---
