@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Frenz
+# Hi!, I'm Frenz
 
 ### 💻 Information Technology Student · Developer · Problem Solver
 
