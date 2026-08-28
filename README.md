@@ -4,7 +4,7 @@
 
 ### 💻 Information Technology Student · Developer · Problem Solver
 
-> Building things, learning constantly, and trying to make software that actually helps.
+> Building things, learning constantly, Being able to work safely in a shared codebase,  and trying to make software that actually helps.
 
 <br>
 
@@ -42,8 +42,7 @@
 * 🗄️ Working with **SQL and relational databases**
 * 🧠 Always learning something new
 * 🎨 I prefer **clean, simple, and lightweight interfaces**
-* 🚀 Currently building projects and preparing for the next stage of my career**
-*💻 being able to work safely in a shared codebase
+* 🚀 Currently building projects and preparing for the next stage of my career
 
 ---
 
