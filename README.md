@@ -92,7 +92,7 @@ An e-commerce project built as part of my web development work.
 
 My personal portfolio showcasing my projects, skills, and development journey.
 
-**Tech:** React · Vite · PHP · MySQL
+**Tech:** NextJS · Vite · PHP · PostgreSQL · Prisma
 
 ---
 
