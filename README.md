@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Frenzy911&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180">
+
 
 <img src="https://streak-stats.demolab.com?user=Frenzy911&theme=transparent&hide_border=true" height="180">
 
