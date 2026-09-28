@@ -96,6 +96,12 @@ My personal portfolio showcasing my projects, skills, and development journey.
 
 ---
 
+### 🛒Calyx
+
+A Solana Memecoin Trading bot.
+
+**Tech:** Python 
+
 <div align="center">
 
 ## 📫 Connect With Me
