@@ -112,9 +112,13 @@ A trading bot for Solana memecoins.
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contributions
 
 <div align="center">
+
+<img src="https://ghchart.rshah.org/39d353/Frenzy911" alt="Frenz's contribution calendar" width="100%" />
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frenzy911&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
