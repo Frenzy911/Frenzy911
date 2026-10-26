@@ -115,11 +115,3 @@ A Solana Memecoin Trading bot.
 ### ⭐ Thanks for visiting my profile!
 
 </div>
-
-
-
-make it any better
-
-
-
-add contributions and github like S+ or visitors count
