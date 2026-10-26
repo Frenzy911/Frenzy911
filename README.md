@@ -1,34 +1,15 @@
 <div align="center">
 
-# Hi!, I'm Frenz
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Frenz+%F0%9F%91%8B;IT+Student+%C2%B7+Full-Stack+Developer;Building+software+that+actually+helps" alt="Typing SVG" />
 
 ### 💻 Information Technology Student · Developer · Problem Solver
 
-> Building things, learning constantly, Being able to work safely in a shared codebase,  and trying to make software that actually helps.
+> Building things, learning constantly, writing code that's safe to work on in a shared codebase,
+> and trying to make software that actually helps.
 
-<br>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Technologies I Work With
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://komarev.com/ghpvc/?username=Frenzy911&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile views" />
+<a href="https://github.com/Frenzy911?tab=followers"><img src="https://img.shields.io/github/followers/Frenzy911?label=Followers&style=flat-square&color=58a6ff" alt="Followers" /></a>
+<a href="https://github.com/Frenzy911?tab=repositories"><img src="https://img.shields.io/github/stars/Frenzy911?label=Stars&style=flat-square&color=58a6ff" alt="Stars" /></a>
 
 </div>
 
@@ -36,78 +17,131 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **BS Information Technology** student
-* 💻 Interested in **web development and software engineering**
-* ⚡ Currently exploring **Next.js and modern full-stack development**
-* 🗄️ Working with **SQL and relational databases**
-* 🧠 Always learning something new
-* 🎨 I prefer **clean, simple, and lightweight interfaces**
-* 🚀 Currently building projects and preparing for the next stage of my career
+- 🎓 **BS Information Technology** student
+- 💻 Focused on **web development and software engineering**
+- ⚡ Currently exploring **Next.js and modern full-stack development**
+- 🗄️ Working with **SQL and relational databases**
+- 🎨 I prefer **clean, simple, and lightweight interfaces**
+- 🚀 Building projects and preparing for the next stage of my career
 
 ---
 
+## 🚀 Tech Stack
+
 <div align="center">
 
-## 📊 GitHub Stats
+**Frontend**
 
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,js,ts,html,css,tailwind" />
 
+**Backend & Database**
 
-<img src="https://streak-stats.demolab.com?user=Frenzy911&theme=transparent&hide_border=true" height="180">
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,postgres,prisma" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
 ---
 
-## 🛠️ What I'm Currently Working With
-
-```text
-Frontend       →  Next.js · React · Vite · JavaScript · TypeScript
-Backend        →  Node.js · PHP
-Database       →  MySQL · SQL
-Tools          →  Git · GitHub · VS Code · Postman
-Learning       →  Full-stack development · System integration
-```
-
----
-
 ## 📌 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌸 Aromea
+A modern perfume e-commerce site focused on a clean, simple shopping experience.
 
-A modern perfume e-commerce project focused on a clean and simple shopping experience.
+`Next.js` `React` `MySQL`
 
-**Tech:** Next.js · React · MySQL
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🛒 Ekomer
+A full e-commerce web app with a React frontend and PHP backend.
 
-An e-commerce project built as part of my web development work.
+`React` `Vite` `PHP` `MySQL`
 
-**Tech:** React · Vite · PHP · MySQL
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧑‍💻 Portfolio
+My personal portfolio showcasing projects, skills, and my development journey.
 
-My personal portfolio showcasing my projects, skills, and development journey.
+`Next.js` `PHP` `PostgreSQL` `Prisma`
 
-**Tech:** NextJS · Vite · PHP · PostgreSQL · Prisma
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Calyx
+A trading bot for Solana memecoins.
+
+`Python` `Solana`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛒Calyx
+## 📊 GitHub Stats
 
-A Solana Memecoin Trading bot.
+<div align="center">
 
-**Tech:** Python 
+<img src="https://github-readme-stats.vercel.app/api?username=Frenzy911&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=default" height="165" alt="GitHub stats with rank" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frenzy911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Frenzy911&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Frenzy911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Frenzy911&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frenzy911/Frenzy911/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Frenzy911/Frenzy911/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Frenzy911/Frenzy911/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
 
 <div align="center">
 
 ## 📫 Connect With Me
 
 <a href="https://github.com/Frenzy911">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
