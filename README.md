@@ -102,30 +102,6 @@ A trading bot for Solana memecoins.
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Frenzy911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 📈 Contributions
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/39d353/Frenzy911" alt="Frenz's contribution calendar" width="100%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Frenzy911&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
