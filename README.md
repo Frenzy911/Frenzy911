@@ -70,7 +70,7 @@ A full e-commerce web app with a React frontend and PHP backend.
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 Portfolio
+### 🧑‍💻 Frenzyy Portfolio
 My personal portfolio showcasing projects, skills, and my development journey.
 
 `Next.js` `PHP` `PostgreSQL` `Prisma`
