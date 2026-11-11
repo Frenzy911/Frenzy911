@@ -40,7 +40,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><img src="assets/ai-icons.svg" height="48" alt="Claude, ChatGPT, Qwen" />
 
 </div>
 
