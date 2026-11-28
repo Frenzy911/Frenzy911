@@ -18,11 +18,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 **BS Information Technology** student
-- 💻 Focused on **web development and software engineering**
-- ⚡ Currently exploring **Next.js and modern full-stack development**
-- 🗄️ Working with **SQL and relational databases**
+- 💻 I build **web apps, desktop tools, and games**
+- ⚡ Working mostly with **Next.js, React, TypeScript and Supabase** on the web
+- 🎮 Making a cross-platform multiplayer game in **Unity and C#**
+- 🤖 Interested in **local, private AI**: on-device OCR and LLMs that never leave your machine
 - 🎨 I prefer **clean, simple, and lightweight interfaces**
-- 🚀 Building projects and preparing for the next stage of my career
 
 ---
 
@@ -36,11 +36,15 @@
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,postgres,supabase,prisma" />
+
+**Games & Desktop**
+
+<img src="https://skillicons.dev/icons?i=unity,cs,dotnet,tauri,androidstudio" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><img src="assets/ai-icons.svg" height="48" alt="Claude, ChatGPT, Qwen" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" /><img src="assets/ai-icons.svg" height="48" alt="Claude, ChatGPT, Qwen" />
 
 </div>
 
@@ -52,10 +56,56 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🔫 SWAT Strike
+An original 2D physics platform shooter. SWAT vs terrorists fight 3v3 on small islands, mostly by knocking each other off the edge. Android and Windows play together over Wi-Fi, a hotspot, or online room codes. 30 guns, 11 melee weapons, 20 skins, campaign, bots, zombie and bomb modes.
+
+`Unity 6` `C#` `Netcode` `Android`
+
+📦 [Android builds](https://github.com/Frenzy911/swat-strike-releases)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 TaskLens
+A calm, local desktop workspace for screenshots, tasks, events and deadlines. It reads screenshots with on-device OCR and understands them with a bundled Qwen3-4B model. Nothing leaves your computer: no cloud, no accounts, no telemetry.
+
+`Tauri` `React` `TypeScript` `Tesseract` `llama.cpp`
+
+🔒 Private
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕯️ Lanternfall
+A pixel-art roguelike dungeon crawler with no engine, no framework and no image files. Every sprite is a text grid, every sound is synthesised, every floor is generated. Nine playable keepers and 81 skins.
+
+`JavaScript` `Canvas` `Vite`
+
+🔒 Private
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Frenzyy Portfolio
+My personal portfolio with projects, tech stack, an artwork gallery and an admin area to manage content without touching code.
+
+`Next.js` `TypeScript` `Tailwind` `Supabase` `Prisma`
+
+🌐 [frenzyy.vercel.app](https://frenzyy.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌸 Aromea
 A modern perfume e-commerce site focused on a clean, simple shopping experience.
 
-`Next.js` `React` `MySQL`
+`Next.js` `React` `Supabase`
+
+🌐 [aromea-pi.vercel.app](https://aromea-pi.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -65,27 +115,30 @@ A full e-commerce web app with a React frontend and PHP backend.
 
 `React` `Vite` `PHP` `MySQL`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 Frenzyy Portfolio
-My personal portfolio showcasing projects, skills, and my development journey.
-
-`Next.js` `PHP` `PostgreSQL` `Prisma`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Calyx
-A trading bot for Solana memecoins.
-
-`Python` `Solana`
+📂 [Repository](https://github.com/Frenzy911/ekomer)
 
 </td>
 </tr>
 </table>
+
+### 🌐 Web Apps
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🎟️ **[Cebu Events](https://github.com/Frenzy911/webapp)** | Event registration with QR tickets and door check-in, staff roles and an audit log | `Next.js` `Supabase` `Vercel` |
+| 📷 **[CubeTech Events](https://github.com/Frenzy911/cubetech-events)** | The same QR check-in system built with plain PHP, no frameworks, works offline | `PHP` `MySQL` `JavaScript` |
+| 📝 **SurveyHub** 🔒 | Student feedback and school concern system for CTU–Consolacion, with dashboards and email alerts | `PHP` `MySQL` `Chart.js` |
+
+### 🛠️ Tools, Games & Experiments
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🎬 **Cortex** 🔒 | Repairs, names and sorts CapCut template projects with one press of Start | `C#` `.NET` |
+| 🤖 **[Calyx](https://github.com/Frenzy911/solana-memecoin-bot)** | Solana memecoin scanner and paper-trading bot with rug checks and real Jupiter quotes | `Python` `Solana` |
+| 🎮 **Chibi Strike** 🔒 | Browser prototype of SWAT Strike, canvas only, no build step | `JavaScript` `Canvas` |
+| 🧭 **OverlayAgent** 🚧 | A Windows overlay that turns your instructions into a plan and carries it out in an app you choose | `.NET` `Android` |
+
+> 🔒 = private repo · 🚧 = in early development
 
 ---
 
@@ -122,6 +175,9 @@ A trading bot for Solana memecoins.
 
 <a href="https://github.com/Frenzy911">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://frenzyy.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br><br>
